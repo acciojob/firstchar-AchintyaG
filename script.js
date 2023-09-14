@@ -6,7 +6,7 @@ function firstChar(text) {
   }
   return ''; 
 }		
-}
+
 
 // Do not change the code below
 
